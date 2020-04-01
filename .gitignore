@@ -1,0 +1,5 @@
+# Ignore environmental files
+.env
+
+# Ignore logs
+frank.log
