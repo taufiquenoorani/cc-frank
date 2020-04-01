@@ -34,7 +34,7 @@ pyserial==3.4
 python-dateutil==2.8.0
 python-dotenv==0.10.3
 pytz==2019.2
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.2.0
 scp==0.13.2
 service-identity==17.0.0
